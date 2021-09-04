@@ -1,6 +1,5 @@
 body {
-<<<<<<< HEAD
-    color: #334;
+    color: blue;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 16px;
@@ -20,37 +19,3 @@ body {
     font-size: 20px;
   }
   
-=======
-  color: #333;
-  text-align: center;
-  font-family: Arial;
-  font-size: 6px;
-  margin: 10;
-  padding: 10;
-}
-
-#cabecera {
-  background: #23a;
-  box-shadow: 1px 5px 30px;
-  color: black;
-  font-weight: bold;
-  margin: 1;
-  padding: 1.5em;
-}
-
-#container {
-  width: 60%;
-  padding: 0.5em;
-  text-align: right;
-  border: 2px solid #ddd;
-  margin: auto;
-}
-
-#container h1 {
-  font-size: 30px;
-}
-
-#post {
-  padding: 0.5em;
-}
->>>>>>> cabecera
